@@ -1,2 +1,2 @@
-first project
+python training project
 
